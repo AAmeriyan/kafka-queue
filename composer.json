@@ -1,0 +1,13 @@
+{
+    "name": "abbas/kafka-queue",
+    "description": "Kafka",
+    "require": {
+        "laravel/framework": "^9.25"
+    },
+    "authors": [
+        {
+            "name": "A.Ameriyan",
+            "email": "abbas.ameriyan@gmail.com"
+        }
+    ]
+}
